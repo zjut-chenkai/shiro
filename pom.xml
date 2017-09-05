@@ -9,4 +9,17 @@
   <modules>
     <module>shiro-ehcache</module>
   </modules>
+  
+  <properties>
+		<!-- spring版本信息 -->
+		<spring.version>4.3.9.RELEASE</spring.version>
+		<commons.logging.version>1.2</commons.logging.version>
+		<commons.fileupload.version>1.3.1</commons.fileupload.version>
+		<jackson.version>2.8.8</jackson.version>
+		<servlet.version>3.1.0</servlet.version>
+		<aspectj.vesion>1.8.10</aspectj.vesion>
+		<quartz.version>2.2.1</quartz.version>
+		<shiro.version>1.2.3</shiro.version>
+	</properties>
+	
 </project>
